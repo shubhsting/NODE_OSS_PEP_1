@@ -1,6 +1,6 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs");
-const id = "priyanshiverma1840@gmail.com";
+
 
 let target;
 let arr = ["@olx.com", "@postman.com", "@delhivery.com", "@synopsys.com", "@urbancompany.com", "@dream11.com", "@zomato.com", "@swiggy.in","@freecharge.com"];
