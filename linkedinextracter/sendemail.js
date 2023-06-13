@@ -16,7 +16,7 @@ async function sendEmail(sender) {
             host: "smtp.gmail.com",
             auth: {
                 user: "shubhamsingh1840@gmail.com",
-                pass: "ineqpbitqghrxoyi",
+                pass: "XXX",
             },
         });
 
